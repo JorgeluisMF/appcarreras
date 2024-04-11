@@ -16,7 +16,7 @@ export const CardCarreras = () => {
             <div className='row align-content-between  justify-content-center pt-5'>
 
                 <div className="col-4 card card-carreras m-4 " >
-                <img className='card-img-top' src="/assets/grafico1.jpg" alt="DG" />
+                <img className='card-img-top' src="/src/assets/grafico1.jpg" alt="DG" />
                 <div className="card-body text-center">
                     <h5 className="card-title">Diseño Grafico</h5>
                     <br />
@@ -25,7 +25,7 @@ export const CardCarreras = () => {
                 </div>
 
                 <div className="col-4 card card-carreras m-4">
-                <img className='card-img-top' src="/assets/fotografia2.jpg" alt="DG" />
+                <img className='card-img-top' src="/src/assets/fotografia1.jpg" alt="DG" />
                 <div className="card-body text-center">
                     <h5 className="card-title">Fotografia</h5>
                     <br />
@@ -34,7 +34,7 @@ export const CardCarreras = () => {
                 </div>
 
                 <div className="col-4 card card-carreras m-4">
-                <img className='card-img-top' src="/assets/PE2.jpg" alt="DG" />
+                <img className='card-img-top' src="/src/assets/PE2.jpg" alt="DG" />
                 <div className="card-body text-center">
                     <h5 className="card-title">Produccion de eventos</h5>
                     <br />
@@ -43,7 +43,7 @@ export const CardCarreras = () => {
                 </div>
 
                 <div className="col-4 card card-carreras m-4">
-                <img className='card-img-top' src="/assets/DM1.jpg" alt="DG" />
+                <img className='card-img-top' src="/src/assets/DM1.jpg" alt="DG" />
                 <div className="card-body text-center">
                     <h5 className="card-title">Diseño de Modas</h5>
                     <br />
@@ -52,7 +52,7 @@ export const CardCarreras = () => {
                 </div>
 
                 <div className="col-4 card card-carreras m-4">
-                <img className='card-img-top' src="/assets/DI1.jpg" alt="DG" />
+                <img className='card-img-top' src="/src/assets/DI1.jpg" alt="DG" />
                 <div className="card-body text-center">
                     <h5 className="card-title">Diseño de Interiores</h5>
                     <br />
@@ -61,7 +61,7 @@ export const CardCarreras = () => {
                 </div>
 
                 <div className="col-4 card card-carreras m-4">
-                <img className='card-img-top' src="/assets/IM3.jpg" alt="DG" />
+                <img className='card-img-top' src="/src/assets/IM3.jpg" alt="DG" />
                 <div className="card-body text-center">
                     <h5 className="card-title">Industria del Mueble</h5>
                     <br />

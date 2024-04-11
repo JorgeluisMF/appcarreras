@@ -15,13 +15,13 @@ export const DesingOfModaPage = () => {
         <div className="container mt-3 pb-5" >
           <div className="row align-content-between">
             <div className="col-4">
-              <img src="/assets/DM1.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
+              <img src="/src/assets/DM1.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
             </div>
             <div className="col-4">
-              <img src="/assets/DM2.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
+              <img src="/src/assets/DM2.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
             </div>
             <div className="col-4">
-              <img src="/assets/DM3.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
+              <img src="/src/assets/DM3.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
             </div>
           </div>
           <div className="row mt-5">

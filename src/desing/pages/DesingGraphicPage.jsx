@@ -15,13 +15,13 @@ export const DesingGraphicPage = () => {
         <div className="container mt-3 pb-5" >
           <div className="row align-content-between">
             <div className="col-4">
-              <img src="/assets/grafico1.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
+              <img src="/src/assets/grafico1.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
             </div>
             <div className="col-4">
-              <img src="/assets/grafico2.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
+              <img src="/src/assets/grafico2.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
             </div>
             <div className="col-4">
-              <img src="/assets/grafico3.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
+              <img src="/src/assets/grafico3.jpg" className="rounded mx-auto d-block animate__animated animate__bounceIn" alt="DG" />
             </div>
           </div>
           <div className="row mt-5">

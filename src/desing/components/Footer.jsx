@@ -7,7 +7,7 @@ export const Footer = () => {
 
             <div className="row accordion-button">
                 <div className="col text-center mb-5">
-                    <img src="/assets/logo.svg.svg" className="img-footer" alt="itsc-logo" />
+                    <img src="/src/assets/logo.svg.svg" className="img-footer" alt="itsc-logo" />
                     <h5>Instituto Tecnico Superior Comunitario</h5>
                     <p>Carretera Mella KM. 14 Esquina, Francisco Del Rosario Sánchez, San Luis</p>
                     <p>Santo Domingo Este</p>

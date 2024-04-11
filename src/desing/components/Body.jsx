@@ -42,7 +42,7 @@ export const Body = () => {
               </p>
             </div>
             <div className="col">
-              <img className="img-principal rounded-3" src="/assets/itsc.png" alt="ITSC" />
+              <img className="img-principal rounded-3" src="/src/assets/itsc.png" alt="ITSC" />
             </div>
           </div>
           
